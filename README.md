@@ -3,8 +3,8 @@
 
 
 主要使用技術
-<p> 
-react-native
-expo
-firebase
-</p> 
+
+* react-native
+* expo
+* firebase
+
